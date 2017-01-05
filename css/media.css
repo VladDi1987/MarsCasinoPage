@@ -1,0 +1,25 @@
+@media screen and (min-width: 640px) {
+  /* line 6, ../sass/media.scss */
+  .bonus_package {
+    display: block;
+  }
+  /* line 8, ../sass/media.scss */
+  .bonus_package h3 {
+    font-size: 2em;
+  }
+  /* line 9, ../sass/media.scss */
+  .bonus_package .first-child {
+    font-size: 2.5em;
+  }
+  /* line 12, ../sass/media.scss */
+  .bonus_package .btc {
+    font-size: 5.5em;
+  }
+
+  /* line 17, ../sass/media.scss */
+  .content {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+  }
+}

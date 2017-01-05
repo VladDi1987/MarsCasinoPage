@@ -1,0 +1,20 @@
+{
+  "name": "MarsCasino",
+  "authors": [
+    "VladDi1987 <dyshliuk1987@gmail.com>"
+  ],
+  "description": "landing",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^5.0.0"
+  }
+}
